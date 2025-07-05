@@ -2,7 +2,7 @@
 <div align="center" style="background-color:#0d1117;padding:20px;border-radius:12px;">
   
   <h1>Hi 👋, I'm Aman Pandey</h1>
-  <h3>Computer Science Engineering Student | Arduino + Software Project Enthusiast</h3>
+  <h3>Computer Science Engineering Student who loves coding</h3>
 
   <!-- Custom Banner Image -->
   <img src="https://raw.githubusercontent.com/iamanpandey/iamanpandey/main/banner.png" alt="Aman Pandey Banner" style="width:100%;max-width:800px;border-radius:12px;margin-top:15px;"/>
