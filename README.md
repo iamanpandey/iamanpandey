@@ -1,12 +1,10 @@
-<!-- Top Background Section -->
-<div align="center" style="background-color:#0d1117;padding:20px;border-radius:12px;">
-  
-  <h1>Hi 👋, I'm Aman Pandey</h1>
-  <h3>Computer Science Engineering Student who loves coding</h3>
+<!-- 🖼️ Top Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/iamanpandey/iamanpandey/main/banner.png" width="100%" alt="Aman Pandey Banner" style="border-radius:12px;" />
+</p>
 
-  <!-- Custom Banner Image -->
-  <img src="https://raw.githubusercontent.com/iamanpandey/iamanpandey/main/banner.png" alt="Aman Pandey Banner" style="width:100%;max-width:800px;border-radius:12px;margin-top:15px;"/>
-</div>
+<h1 align="center">Hi 👋, I'm Aman Pandey</h1>
+<h3 align="center">Computer Science Engineering Student who loves coding</h3>
 
 ---
 
@@ -19,34 +17,43 @@
 
 ---
 
-### 🧰 Technologies & Tools
+### 🧰 Tech Stack & 🌐 Contact
 
-<p align="center">
-  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java"/>
-  <img src="https://img.icons8.com/color/48/python.png" alt="Python"/>
-  <img src="https://img.icons8.com/color/48/c-programming.png" alt="C"/>
-  <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="C++"/>
-  <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML"/>
-  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS"/>
-  <img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript"/>
-  <img src="https://img.icons8.com/color/48/arduino.png" alt="Arduino"/>
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      
+      <h3>🧰 Technologies & Tools</h3>
+      <p>
+        <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java"/>
+        <img src="https://img.icons8.com/color/48/python.png" alt="Python"/>
+        <img src="https://img.icons8.com/color/48/c-programming.png" alt="C"/>
+        <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="C++"/>
+        <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML"/>
+        <img src="https://img.icons8.com/color/48/css3.png" alt="CSS"/>
+        <img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript"/>
+        <img src="https://img.icons8.com/color/48/arduino.png" alt="Arduino"/>
+      </p>
 
----
+    </td>
+    <td align="center" width="50%">
+      
+      <h3>🌐 Connect With Me</h3>
+      <p>
+        <a href="https://www.linkedin.com/in/aman-pandey-9147b72b9" target="_blank">
+          <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/>
+        </a>
+        <a href="https://www.instagram.com/i._amanpandey" target="_blank">
+          <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram"/>
+        </a>
+        <a href="mailto:amanpandey.9156@gmail.com">
+          <img src="https://img.icons8.com/fluency/48/gmail.png" alt="Gmail"/>
+        </a>
+      </p>
 
-### 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/aman-pandey-9147b72b9" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/i._amanpandey" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram"/>
-  </a>
-  <a href="mailto:amanpandey.9156@gmail.com">
-    <img src="https://img.icons8.com/fluency/48/gmail.png" alt="Gmail"/>
-  </a>
-</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
