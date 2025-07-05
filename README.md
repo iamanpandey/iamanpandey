@@ -1,3 +1,20 @@
+<!-- 🖼️ Top Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/iamanpandey/iamanpandey/main/banner.png" width="100%" alt="Aman Pandey Banner" style="border-radius:12px;" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Aman Pandey</h1>
+<h3 align="center">Computer Science Engineering Student who loves coding</h3>
+
+---
+
+### 💬 About Me
+
+🎓 I'm a B.Tech student in Computer Science Engineering  
+💻 I love building tech projects that blend **hardware + software**  
+🔌 Especially passionate about **Arduino + real-world coding**  
+🚀 Always curious to learn & create with code
+
 ---
 
 ### 🧰 Technologies & Tools
@@ -27,4 +44,19 @@
   <a href="mailto:amanpandey.9156@gmail.com">
     <img src="https://img.icons8.com/fluency/48/gmail.png" alt="Gmail"/>
   </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iamanpandey&show_icons=true&theme=github_dark&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamanpandey&layout=compact&theme=github_dark&hide_border=true" width="48%"/>
+</p>
+
+---
+
+<p align="center">
+  🚀 "Code it till you make it"
 </p>
