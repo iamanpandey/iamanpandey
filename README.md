@@ -1,23 +1,25 @@
-<!-- Custom banner (replace with your own if needed) -->
-<p align="center">
-  <img src="https://readme-hero.vercel.app/api?name=Aman%20Pandey&description=CS%20Student%20%7C%20Arduino%20%2B%20Software%20Projects%20%7C%20Love%20to%20Code&github=iamanpandey&font=monospace&text-color=ffffff&bg-color=1A1B27&icon-color=79ff97" alt="banner"/>
-</p>
+<!-- Top Background Section -->
+<div align="center" style="background-color:#0d1117;padding:20px;border-radius:12px;">
+  
+  <h1>Hi 👋, I'm Aman Pandey</h1>
+  <h3>Computer Science Engineering Student | Arduino + Software Project Enthusiast</h3>
 
-<h1 align="center">Hi there 👋, I'm Aman Pandey</h1>
-<h3 align="center">Computer Science Engineering Student | Passionate about Arduino + Software Projects</h3>
+  <!-- Custom Banner Image -->
+  <img src="https://raw.githubusercontent.com/iamanpandey/iamanpandey/main/banner.png" alt="Aman Pandey Banner" style="width:100%;max-width:800px;border-radius:12px;margin-top:15px;"/>
+</div>
 
 ---
 
 ### 💬 About Me
 
 🎓 I'm a B.Tech student in Computer Science Engineering  
-💻 I love writing code and building cool tech projects  
-🔌 I'm especially passionate about combining **Arduino hardware** with **software logic**  
-📚 Always learning new tools, languages, and frameworks
+💻 I love building tech projects that blend **hardware + software**  
+🔌 Especially passionate about **Arduino + real-world coding**  
+🚀 Always curious to learn & create with code
 
 ---
 
-### 🔧 Technologies & Languages
+### 🧰 Technologies & Tools
 
 <p align="center">
   <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java"/>
@@ -58,5 +60,5 @@
 ---
 
 <p align="center">
-  💡 "Code it till you make it" 💡
+  🚀 "Code it till you make it"
 </p>
