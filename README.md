@@ -1,48 +1,44 @@
-<!-- 🖼️ Top Banner -->
+<!-- 🖼️ Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/iamanpandey/iamanpandey/main/banner.png" width="100%" alt="Aman Pandey Banner" style="border-radius:12px;" />
+  <img src="https://raw.githubusercontent.com/iamanpandey/iamanpandey/main/banner.png" width="100%" alt="Banner" style="border-radius:12px;" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Aman Pandey</h1>
-<h3 align="center">Computer Science Engineering Student who loves coding</h3>
+<h3 align="center">Computer Science Engineering Student passionate about building smart things 🚀</h3>
 
 ---
 
-### 💬 About Me
-
-🎓 I'm a B.Tech student in Computer Science Engineering  
-💻 I love building tech projects that blend **hardware + software**  
-🔌 Especially passionate about **Arduino + real-world coding**  
-🚀 Always curious to learn & create with code
-
----
-
-### 🧰 Technologies & Tools
+### 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java"/>
-  <img src="https://img.icons8.com/color/48/python.png" alt="Python"/>
-  <img src="https://img.icons8.com/color/48/c-programming.png" alt="C"/>
-  <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="C++"/>
-  <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML"/>
-  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS"/>
-  <img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript"/>
-  <img src="https://img.icons8.com/color/48/arduino.png" alt="Arduino"/>
+  <img src="https://img.icons8.com/color/48/html-5--v1.png" />
+  <img src="https://img.icons8.com/color/48/css3.png" />
+  <img src="https://img.icons8.com/color/48/javascript--v1.png" />
+  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" />
+</p>
+
+<p align="center">
+  <img src="https://img.icons8.com/color/48/python.png" />
+  <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" />
+  <img src="https://img.icons8.com/color/48/arduino.png" />
+  <img src="https://img.icons8.com/color/48/firebase.png" />
 </p>
 
 ---
 
-### 🌐 Connect With Me
+### 🤝 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aman-pandey-9147b72b9" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/>
+    <img src="https://img.icons8.com/bubbles/50/linkedin.png" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.instagram.com/i._amanpandey" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram"/>
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" style="border-radius:50%;" />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:amanpandey.9156@gmail.com">
-    <img src="https://img.icons8.com/fluency/48/gmail.png" alt="Gmail"/>
+    <img src="https://img.icons8.com/bubbles/50/gmail.png" />
   </a>
 </p>
 
@@ -57,6 +53,14 @@
 
 ---
 
+### 🔥 GitHub Streak
+
 <p align="center">
-  🚀 "Code it till you make it"
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=iamanpandey&theme=github-dark&hide_border=true" width="90%"/>
+</p>
+
+---
+
+<p align="center">
+  💡 <i>"Code it till you make it. Then code to make others' lives better."</i>
 </p>
