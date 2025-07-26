@@ -71,5 +71,5 @@
 ---
 
 <p align="center">
-  💡 <i>"Code it till you make it. "</i>
+  💡 <i>"Code it till you make it. Then code to make others' lives better."</i>
 </p>
