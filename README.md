@@ -65,7 +65,7 @@
 ### 🔥 GitHub Streak
 
 <p align="center">
- <img src="https://github-readme-streak-stats.demolab.com?user=iamanpandey&theme=github-dark&hide_border=true" width="90%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=iamanpandey&show_icons=true&theme=github_dark&hide_border=true" width="90%" />
 </p>
 
 ---
